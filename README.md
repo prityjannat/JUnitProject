@@ -1,1 +1,2 @@
 # JUnitProject
+![Screenshot](Report.png)
